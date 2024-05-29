@@ -1,0 +1,9 @@
+	
+	https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset/data
+
+
+	Logistic Regression	91
+	Multinomial NB		90
+	Random Forest 		82
+	Descision Tree    	83
+	SuportVectorMachine 84
